@@ -1,0 +1,67 @@
+﻿<Window x:Class="GajiLembur"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gaji Lembur" Height="550" Width="800" Background="BurlyWood">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Content="No:"/>
+        <TextBox Grid.Row="0" Name="txtNo" Margin="100,0,0,0"/>
+
+        <Label Grid.Row="1" Content="Employee ID:"/>
+        <TextBox Grid.Row="1" Name="txtEmployeeId" Margin="100,0,0,0"/>
+
+        <Label Grid.Row="2" Content="Nama Karyawan:"/>
+        <TextBox Grid.Row="2" Name="txtNama" Margin="100,0,0,0"/>
+
+        <Label Grid.Row="3" Content="Divisi:"/>
+        <ComboBox Grid.Row="3" Name="cmbGolongan" Margin="100,0,0,0">
+            <ComboBoxItem Content="HRD"/>
+            <ComboBoxItem Content="Manager"/>
+            <ComboBoxItem Content="Staff"/>
+        </ComboBox>
+
+        <Label Grid.Row="4" Content="Tanggal :"/>
+        <DatePicker Grid.Row="4" Name="dpTanggalMasuk" Margin="100,0,0,0"/>
+
+        <Label Grid.Row="5" Content="Jam Kerja:"/>
+        <TextBox Grid.Row="5" Name="txtJamKerja" Margin="100,0,0,0"/>
+
+        <Label Grid.Row="6" Content="Lembur:"/>
+        <TextBox Grid.Row="6" Name="txtLembur" Margin="100,0,0,0"/>
+
+        <Button Grid.Row="7" Content="Save" Click="btnSave_Click" Margin="100,10,0,0"/>
+        <Button Grid.Row="8" Content="Input" Click="btnInput_Click" Margin="100,10,0,0"/>
+        <Button Grid.Row="9" Content="Clear" Click="btnClear_Click" Margin="100,10,0,0"/>
+        <Button Grid.Row="10" Content="Close" Click="btnClose_Click" Margin="100,10,0,247"/>
+        <Button Grid.Row="10" Content="Open Data Gaji Lembur" Click=" OpenPenggajian_Click" Margin="100,48,0,207"/>
+
+        <!-- DataGrid untuk menampilkan data -->
+        <DataGrid Grid.Row="12" Name="dataGrid" AutoGenerateColumns="False" Margin="0,-174,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="No" Binding="{Binding No}"/>
+                <DataGridTextColumn Header="Employee ID" Binding="{Binding Employee}"/>
+                <DataGridTextColumn Header="Nama Karyawan" Binding="{Binding Nama}"/>
+                <DataGridTextColumn Header="Divisi" Binding="{Binding Golongan}"/>
+                <DataGridTextColumn Header="Gaji Lembur" Binding="{Binding GajiLembur}"/>
+                <DataGridTextColumn Header="Jam Kerja" Binding="{Binding JamKerja}"/>
+                <DataGridTextColumn Header="Lembur" Binding="{Binding Lembur}"/>
+                <DataGridTextColumn Header="Tanggal Masuk" Binding="{Binding TanggalMasuk}"/>
+                <DataGridTextColumn Header="Total Gaji Lembur" Binding="{Binding TotalGajiLembur}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

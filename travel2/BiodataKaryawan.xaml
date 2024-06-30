@@ -1,0 +1,119 @@
+﻿<Window x:Class="BiodataKaryawan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BiodataKaryawan" Height="1650" Width="1200" Background="BurlyWood">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <!-- This row will take the remaining space -->
+        </Grid.RowDefinitions>
+
+        <!-- Data Identitas GroupBox -->
+        <GroupBox Header="Data Identitas" Grid.Row="0" Margin="10">
+            <StackPanel>
+                <TextBlock Text="Employee ID:"/>
+                <TextBox x:Name="txtEmployeeId" Width="200"/>
+                <TextBlock Text="Name:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtName" Width="200"/>
+                <TextBlock Text="Divisi:" Margin="0,5,0,0"/>
+                    <ComboBox x:Name="cmbGolongan" Width="200" SelectionChanged="cmbGolongan_SelectionChanged">
+                    <ComboBoxItem Content="HRD"/>
+                    <ComboBoxItem Content="Manager"/>
+                    <ComboBoxItem Content="Staff"/>
+                </ComboBox>
+                <TextBlock Text="Job Title:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtJobTitle" Width="200"/>
+                <TextBlock Text="Gender:" Margin="0,5,0,0"/>
+                <ComboBox x:Name="cmbGender" Width="200">
+                    <ComboBoxItem Content="Male"/>
+                    <ComboBoxItem Content="Female"/>
+                </ComboBox>
+                <TextBlock Text="Hire Date:" Margin="0,5,0,0"/>
+                <DatePicker x:Name="dpHireDate" Width="200"/>
+                <TextBlock Text="Phone:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtPhone" Width="200"/>
+                <TextBlock Text="Email:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtEmail" Width="200"/>
+                <TextBlock Text="Birth Date:" Margin="0,5,0,0"/>
+                <DatePicker x:Name="dpBirthDate" Width="200"/>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Data Karyawan GroupBox -->
+        <GroupBox Header="Data Karyawan" Grid.Row="1" Margin="10">
+            <StackPanel>
+                <TextBlock Text="Gaji Pokok:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtGajiPokok" IsReadOnly="True" Width="200"/>
+                <TextBlock Text="Tunjangan Jabatan:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtTunjanganJabatan" IsReadOnly="True" Width="200"/>
+                <TextBlock Text="Tunjangan Makan:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtTunjanganMakan" IsReadOnly="True" Width="200"/>
+                <TextBlock Text="Tunjangan Transportasi:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtTunjanganTransportasi" IsReadOnly="True" Width="200"/>
+                <TextBlock Text="Gaji Lembur:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtGajiLembur" IsReadOnly="True" Width="200"/>
+                <TextBlock Text="Potongan Alpa:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtPotonganAlpa" IsReadOnly="True" Width="200"/>
+                <TextBlock Text="Gaji Bersih:" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtGajiBersih" IsReadOnly="True" Width="200"/>
+            </StackPanel>
+        </GroupBox>
+
+        <Button Content="Close" Margin="536,63,549,5" Grid.Row="2" Click="btnClose_Click"/>
+        <Button Content="Update" Grid.Row="3" Margin="536,10,549,5" Click="UpdateButton_Click"/>
+        <Button Content="Delete" Grid.Row="4" Margin="536,10,549,5" Click="DeleteButton_Click"/>
+        <Button Content="Add" Grid.Row="5" Margin="536,10,549,5" Click="AddButton_Click"/>
+        <Button Content="Clear Form" Grid.Row="6" Margin="536,10,549,10" Click="ClearFormButton_Click"/>
+            <Button Content="Open Data Biodata" Grid.Row="7" Margin="536,10,549,10" Click="OpenDataBiodata_Click"/>
+
+
+
+            <ListView x:Name="lstEmployees" Grid.Row="17" Margin="10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Employee ID" DisplayMemberBinding="{Binding EmployeeId}"/>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Divisi" DisplayMemberBinding="{Binding Golongan}"/>
+                    <GridViewColumn Header="Job Title" DisplayMemberBinding="{Binding JobTitle}"/>
+                    <GridViewColumn Header="Gender" DisplayMemberBinding="{Binding Gender}"/>
+                    <GridViewColumn Header="Hire Date" DisplayMemberBinding="{Binding HireDate}"/>
+                    <GridViewColumn Header="Phone" DisplayMemberBinding="{Binding Phone}"/>
+                    <GridViewColumn Header="Email" DisplayMemberBinding="{Binding Email}"/>
+                    <GridViewColumn Header="Birth Date" DisplayMemberBinding="{Binding BirthDate}"/>
+                    <GridViewColumn Header="Gaji Pokok" DisplayMemberBinding="{Binding GajiPokok}"/>
+                    <GridViewColumn Header="Tunjangan Jabatan" DisplayMemberBinding="{Binding TunjanganJabatan}"/>
+                    <GridViewColumn Header="Tunjangan Makan" DisplayMemberBinding="{Binding TunjanganMakan}"/>
+                    <GridViewColumn Header="Tunjangan Transportasi" DisplayMemberBinding="{Binding TunjanganTransportasi}"/>
+                    <GridViewColumn Header="Gaji Lembur" DisplayMemberBinding="{Binding GajiLembur}"/>
+                    <GridViewColumn Header="Potongan Alpa" DisplayMemberBinding="{Binding PotonganAlpa}"/>
+                    <GridViewColumn Header="Gaji Bersih" DisplayMemberBinding="{Binding GajiBersih}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+        <!-- Elemen Image untuk menampilkan gambar -->
+        <Image x:Name="imgEmployeePhoto" Grid.Row="7" Margin="1000,0,0,0" Width="100" Height="100" HorizontalAlignment="Left"/>
+    </Grid>
+    </ScrollViewer>
+</Window>

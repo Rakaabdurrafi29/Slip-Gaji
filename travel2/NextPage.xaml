@@ -1,0 +1,23 @@
+﻿<Window x:Class="NextPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:travel2"
+        mc:Ignorable="d"
+        Title="Main Page" Height="450" Width="800" Background="BurlyWood">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <!-- Gambar logo perusahaan -->
+            <Image Grid.Row="0" Source="/logopt.png" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10,0,0" Height="100" Width="100"/>
+
+
+            <!-- Teks nama perusahaan -->
+            <TextBlock Grid.Row="1" Text="PT ARRIZSTRA" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Margin="0,10,0,10"/>
+            <Button Content="Biodata Karyawan" Width="150" Background="PaleTurquoise" Margin="5" Click="btnBiodata_Click"/>
+            <Button Content="Penggajian Karyawan" Background="PaleTurquoise" Width="150" Margin="5" Click="btnPenggajian_Click"/>
+            <Button Content="Gaji Lembur per Hari" Width="150" Background="PaleTurquoise" Margin="5" Click="btnGajiLembur_Click"/>
+            <Button Content="Exit" Width="100" Margin="5" Background="PaleTurquoise" Click="btnExit_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

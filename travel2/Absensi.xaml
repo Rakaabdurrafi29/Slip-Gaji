@@ -1,0 +1,67 @@
+﻿<Window x:Class="Absensi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Absensi" Height="450" Width="800" Background="BurlyWood">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto" MinHeight="3"/>
+            <RowDefinition Height="Auto" MinHeight="104"/>
+            <RowDefinition Height="Auto" MinHeight="12.704"/>
+            <RowDefinition Height="Auto" MinHeight="43"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Content="No:" FontSize="12" Margin="26,-2,727,0" RenderTransformOrigin="-36.521,0.505"/>
+        <TextBox Grid.Row="0" Name="txtNo" Margin="102,2,498,3"/>
+
+
+        <Label Grid.Row="1" Content="Employee ID:" Margin="0,0,0,24" Grid.RowSpan="2"/>
+        <TextBox Name="txtEmployeeId" Margin="100,24,498,1" Grid.RowSpan="2"/>
+
+
+        <Label Grid.Row="2" Content="Nama Karyawan:" Margin="0,0,0,7"/>
+        <TextBox Grid.Row="2" Name="txtName" Margin="100,0,498,12"/>
+
+        <Label Grid.Row="2" Content="Golongan/Bagian/Divisi:" Margin="0,24,0,0" Grid.RowSpan="2"/>
+        <ComboBox Grid.Row="2" Name="cmbGolongan" Margin="100,24,498,0" Grid.RowSpan="2">
+            <ComboBoxItem Content="Golongan A"/>
+            <ComboBoxItem Content="Golongan B"/>
+            <ComboBoxItem Content="Golongan C"/>
+        </ComboBox>
+
+        <Label Content="Tanggal Masuk:" Margin="316,-1,-316,1"/>
+        <DatePicker Name="dpTanggalMasuk" Margin="450,-1,148,2"/>
+
+        <Label Grid.Row="1" Content="Jam Masuk:" Margin="316,0,-316,24" Grid.RowSpan="2"/>
+        <TextBox Grid.Row="1" Name="txtJamMasuk" Margin="451,4,149,4"/>
+
+        <Label Grid.Row="2" Content="Jam Keluar:" Margin="316,1,-316,12"/>
+        <TextBox Grid.Row="2" Name="txtJamKeluar" Margin="451,6,147,12"/>
+
+        <!-- Hapus Grid.Row="7" di sini -->
+        <Button Grid.Row="8" Content="Save" Click="btnSave_Click" Margin="321,5,353,64"/>
+        <Button Grid.Row="8" Content="Input" Click="btnInput_Click" Margin="474,4,200,63"/>
+        <Button Grid.Row="8" Content="Clear" Click="btnClear_Click" Margin="474,54,200,14"/>
+        <Button Grid.Row="8" Content="Close" Click="btnClose_Click" Margin="631,3,43,64"/>
+
+
+        <!-- DataGrid untuk menampilkan data -->
+        <DataGrid Grid.Row="10" Name="dataGrid" AutoGenerateColumns="False" Grid.RowSpan="2" Margin="0,22,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="No" Binding="{Binding No}"/>
+                <DataGridTextColumn Header="Nama Karyawan" Binding="{Binding Nama}"/>
+                <DataGridTextColumn Header="Golongan" Binding="{Binding Golongan}"/>
+                <DataGridTextColumn Header="Tanggal Masuk" Binding="{Binding TanggalMasuk}"/>
+                <DataGridTextColumn Header="Jam Masuk" Binding="{Binding JamMasuk}"/>
+                <DataGridTextColumn Header="Jam Keluar" Binding="{Binding JamKeluar}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
