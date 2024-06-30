@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <EmployeeId>9FFF</EmployeeId>
+    <Name>julio</Name>
+    <JobTitle>Manager</JobTitle>
+    <Golongan>Golongan B</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-05T00:00:00</HireDate>
+    <Phone>111111111</Phone>
+    <Email>julio@gmail.com</Email>
+    <BirthDate>2024-06-04T00:00:00</BirthDate>
+    <GajiPokok>0</GajiPokok>
+    <TunjanganJabatan>0</TunjanganJabatan>
+    <TunjanganMakan>0</TunjanganMakan>
+    <TunjanganTransportasi>0</TunjanganTransportasi>
+    <GajiLembur>0</GajiLembur>
+    <PotonganAlpa>0</PotonganAlpa>
+    <GajiBersih>0</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>10FFF</EmployeeId>
+    <Name>mandra</Name>
+    <JobTitle>Staff</JobTitle>
+    <Golongan>Golongan C</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-09T00:00:00</HireDate>
+    <Phone>2222222222</Phone>
+    <Email>mandra@gmail.com</Email>
+    <BirthDate>2024-06-23T00:00:00</BirthDate>
+    <GajiPokok>0</GajiPokok>
+    <TunjanganJabatan>0</TunjanganJabatan>
+    <TunjanganMakan>0</TunjanganMakan>
+    <TunjanganTransportasi>0</TunjanganTransportasi>
+    <GajiLembur>0</GajiLembur>
+    <PotonganAlpa>0</PotonganAlpa>
+    <GajiBersih>0</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>3456789</EmployeeId>
+    <Name>simorangkir</Name>
+    <JobTitle>staff</JobTitle>
+    <Golongan />
+    <Gender>Male</Gender>
+    <HireDate>2024-06-13T00:00:00</HireDate>
+    <Phone>8887886868</Phone>
+    <Email>vvv@gmail.com</Email>
+    <BirthDate>2024-06-17T00:00:00</BirthDate>
+    <PhotoPath>EmployeeImages\1b9eb1bc-bed5-472e-b231-533fa5e040fa.png</PhotoPath>
+    <GajiPokok>0</GajiPokok>
+    <TunjanganJabatan>0</TunjanganJabatan>
+    <TunjanganMakan>0</TunjanganMakan>
+    <TunjanganTransportasi>0</TunjanganTransportasi>
+    <GajiLembur>0</GajiLembur>
+    <PotonganAlpa>0</PotonganAlpa>
+    <GajiBersih>0</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>3D45</EmployeeId>
+    <Name>Akbar</Name>
+    <JobTitle>HRD</JobTitle>
+    <Golongan />
+    <Gender>Male</Gender>
+    <HireDate>2024-06-05T00:00:00</HireDate>
+    <Phone>898989898</Phone>
+    <Email>akbar@gmail.com</Email>
+    <BirthDate>2024-05-27T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>0</GajiPokok>
+    <TunjanganJabatan>0</TunjanganJabatan>
+    <TunjanganMakan>0</TunjanganMakan>
+    <TunjanganTransportasi>0</TunjanganTransportasi>
+    <GajiLembur>0</GajiLembur>
+    <PotonganAlpa>0</PotonganAlpa>
+    <GajiBersih>0</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>3F45</EmployeeId>
+    <Name>Kumis</Name>
+    <JobTitle>Manager</JobTitle>
+    <Golongan />
+    <Gender>Female</Gender>
+    <HireDate>2024-05-30T00:00:00</HireDate>
+    <Phone>676767676767</Phone>
+    <Email>kumis@gmail.com</Email>
+    <BirthDate>2024-05-06T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>0</GajiPokok>
+    <TunjanganJabatan>0</TunjanganJabatan>
+    <TunjanganMakan>0</TunjanganMakan>
+    <TunjanganTransportasi>0</TunjanganTransportasi>
+    <GajiLembur>0</GajiLembur>
+    <PotonganAlpa>0</PotonganAlpa>
+    <GajiBersih>0</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>4RF76</EmployeeId>
+    <Name>Sinta</Name>
+    <JobTitle>Staff</JobTitle>
+    <Golongan />
+    <Gender>Female</Gender>
+    <HireDate>2024-06-05T00:00:00</HireDate>
+    <Phone>98989898989</Phone>
+    <Email>sinta@gmail.com</Email>
+    <BirthDate>2024-06-11T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>0</GajiPokok>
+    <TunjanganJabatan>0</TunjanganJabatan>
+    <TunjanganMakan>0</TunjanganMakan>
+    <TunjanganTransportasi>0</TunjanganTransportasi>
+    <GajiLembur>0</GajiLembur>
+    <PotonganAlpa>0</PotonganAlpa>
+    <GajiBersih>0</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>1FFF</EmployeeId>
+    <Name>kudis</Name>
+    <JobTitle>Manager</JobTitle>
+    <Golongan />
+    <Gender>Male</Gender>
+    <HireDate>2024-06-03T00:00:00</HireDate>
+    <Phone>7777777777777</Phone>
+    <Email>kudis@gmail.com</Email>
+    <BirthDate>2024-06-04T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>0</GajiPokok>
+    <TunjanganJabatan>0</TunjanganJabatan>
+    <TunjanganMakan>0</TunjanganMakan>
+    <TunjanganTransportasi>0</TunjanganTransportasi>
+    <GajiLembur>0</GajiLembur>
+    <PotonganAlpa>0</PotonganAlpa>
+    <GajiBersih>0</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>2FFF</EmployeeId>
+    <Name>kiwil</Name>
+    <JobTitle>Staff</JobTitle>
+    <Golongan />
+    <Gender>Male</Gender>
+    <HireDate>2024-06-06T00:00:00</HireDate>
+    <Phone>5555555</Phone>
+    <Email>kiwil@gmail.com</Email>
+    <BirthDate>2024-05-28T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>0</GajiPokok>
+    <TunjanganJabatan>0</TunjanganJabatan>
+    <TunjanganMakan>0</TunjanganMakan>
+    <TunjanganTransportasi>0</TunjanganTransportasi>
+    <GajiLembur>0</GajiLembur>
+    <PotonganAlpa>0</PotonganAlpa>
+    <GajiBersih>0</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>11FFF</EmployeeId>
+    <Name>Zidan</Name>
+    <JobTitle>Manager</JobTitle>
+    <Golongan>Golongan B</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-05-27T00:00:00</HireDate>
+    <Phone>121212121212</Phone>
+    <Email>Zidni@gmail.com</Email>
+    <BirthDate>2024-05-28T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>8000000</GajiPokok>
+    <TunjanganJabatan>10000000</TunjanganJabatan>
+    <TunjanganMakan>300000</TunjanganMakan>
+    <TunjanganTransportasi>300000</TunjanganTransportasi>
+    <GajiLembur>1000000</GajiLembur>
+    <PotonganAlpa>300000</PotonganAlpa>
+    <GajiBersih>19300000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId />
+    <Name />
+    <JobTitle>HRD</JobTitle>
+    <Golongan>Golongan A</Golongan>
+    <Gender />
+    <HireDate xsi:nil="true" />
+    <Phone />
+    <Email />
+    <BirthDate xsi:nil="true" />
+    <PhotoPath />
+    <GajiPokok>10000000</GajiPokok>
+    <TunjanganJabatan>15000000</TunjanganJabatan>
+    <TunjanganMakan>350000</TunjanganMakan>
+    <TunjanganTransportasi>500000</TunjanganTransportasi>
+    <GajiLembur>2000000</GajiLembur>
+    <PotonganAlpa>500000</PotonganAlpa>
+    <GajiBersih>27350000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>2FF</EmployeeId>
+    <Name>liooo</Name>
+    <JobTitle>Manager</JobTitle>
+    <Golongan>Manager</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-02T00:00:00</HireDate>
+    <Phone>0809080099</Phone>
+    <Email>liooo@gmail.com</Email>
+    <BirthDate>2024-06-09T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>8000000</GajiPokok>
+    <TunjanganJabatan>10000000</TunjanganJabatan>
+    <TunjanganMakan>300000</TunjanganMakan>
+    <TunjanganTransportasi>300000</TunjanganTransportasi>
+    <GajiLembur>1000000</GajiLembur>
+    <PotonganAlpa>300000</PotonganAlpa>
+    <GajiBersih>19300000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>90f</EmployeeId>
+    <Name>Yud</Name>
+    <JobTitle>Manager</JobTitle>
+    <Golongan>Golongan B</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-11T00:00:00</HireDate>
+    <Phone>081920304900</Phone>
+    <Email>Yudhajulio@gmail.com</Email>
+    <BirthDate>2024-06-06T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>8000000</GajiPokok>
+    <TunjanganJabatan>10000000</TunjanganJabatan>
+    <TunjanganMakan>300000</TunjanganMakan>
+    <TunjanganTransportasi>300000</TunjanganTransportasi>
+    <GajiLembur>1000000</GajiLembur>
+    <PotonganAlpa>300000</PotonganAlpa>
+    <GajiBersih>19300000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>11FFF</EmployeeId>
+    <Name>Zidan</Name>
+    <JobTitle>Staff</JobTitle>
+    <Golongan>Golongan C</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-12T00:00:00</HireDate>
+    <Phone>888888888</Phone>
+    <Email>zidan@gmail.com</Email>
+    <BirthDate>2024-06-11T00:00:00</BirthDate>
+    <PhotoPath>EmployeeImages\d43fe7c2-47bb-4adc-8c19-c4c2af061685.png</PhotoPath>
+    <GajiPokok>5000000</GajiPokok>
+    <TunjanganJabatan>5000000</TunjanganJabatan>
+    <TunjanganMakan>150000</TunjanganMakan>
+    <TunjanganTransportasi>250000</TunjanganTransportasi>
+    <GajiLembur>1000000</GajiLembur>
+    <PotonganAlpa>250000</PotonganAlpa>
+    <GajiBersih>11150000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>11FFF</EmployeeId>
+    <Name>Zidan</Name>
+    <JobTitle>HRD</JobTitle>
+    <Golongan>Golongan A</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-05-27T00:00:00</HireDate>
+    <Phone>888888888888</Phone>
+    <Email>Zidan@gmail.com</Email>
+    <BirthDate>2024-05-30T00:00:00</BirthDate>
+    <PhotoPath>EmployeeImages\623a157b-9678-4f80-95d0-5544e9f36512.png</PhotoPath>
+    <GajiPokok>10000000</GajiPokok>
+    <TunjanganJabatan>15000000</TunjanganJabatan>
+    <TunjanganMakan>350000</TunjanganMakan>
+    <TunjanganTransportasi>500000</TunjanganTransportasi>
+    <GajiLembur>2000000</GajiLembur>
+    <PotonganAlpa>500000</PotonganAlpa>
+    <GajiBersih>27350000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>iof</EmployeeId>
+    <Name>Yudha</Name>
+    <JobTitle>HRD</JobTitle>
+    <Golongan>Golongan A</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-09T00:00:00</HireDate>
+    <Phone>09899099</Phone>
+    <Email>yudhajulio@yahoo.com</Email>
+    <BirthDate>2024-06-11T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>10000000</GajiPokok>
+    <TunjanganJabatan>15000000</TunjanganJabatan>
+    <TunjanganMakan>350000</TunjanganMakan>
+    <TunjanganTransportasi>500000</TunjanganTransportasi>
+    <GajiLembur>2000000</GajiLembur>
+    <PotonganAlpa>500000</PotonganAlpa>
+    <GajiBersih>27350000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>90fe</EmployeeId>
+    <Name>io</Name>
+    <JobTitle>HRD</JobTitle>
+    <Golongan>Golongan A</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-06T00:00:00</HireDate>
+    <Phone>0992324900</Phone>
+    <Email>julio@yahoo.com</Email>
+    <BirthDate>2024-06-02T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>10000000</GajiPokok>
+    <TunjanganJabatan>15000000</TunjanganJabatan>
+    <TunjanganMakan>350000</TunjanganMakan>
+    <TunjanganTransportasi>500000</TunjanganTransportasi>
+    <GajiLembur>2000000</GajiLembur>
+    <PotonganAlpa>500000</PotonganAlpa>
+    <GajiBersih>27350000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>1f</EmployeeId>
+    <Name>Rak</Name>
+    <JobTitle>HRD</JobTitle>
+    <Golongan>HRD</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-05-27T00:00:00</HireDate>
+    <Phone>0819209000</Phone>
+    <Email>asdji@GMAIL.COM</Email>
+    <BirthDate>2024-06-03T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>10000000</GajiPokok>
+    <TunjanganJabatan>15000000</TunjanganJabatan>
+    <TunjanganMakan>350000</TunjanganMakan>
+    <TunjanganTransportasi>500000</TunjanganTransportasi>
+    <GajiLembur>2000000</GajiLembur>
+    <PotonganAlpa>500000</PotonganAlpa>
+    <GajiBersih>27350000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>1RRR</EmployeeId>
+    <Name>Kemas</Name>
+    <JobTitle>Manager</JobTitle>
+    <Golongan>Manager</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-05-28T00:00:00</HireDate>
+    <Phone>77777777</Phone>
+    <Email>kemas@gmail.com</Email>
+    <BirthDate xsi:nil="true" />
+    <PhotoPath />
+    <GajiPokok>8000000</GajiPokok>
+    <TunjanganJabatan>10000000</TunjanganJabatan>
+    <TunjanganMakan>300000</TunjanganMakan>
+    <TunjanganTransportasi>300000</TunjanganTransportasi>
+    <GajiLembur>1000000</GajiLembur>
+    <PotonganAlpa>300000</PotonganAlpa>
+    <GajiBersih>19300000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>1RRR</EmployeeId>
+    <Name>Kemas</Name>
+    <JobTitle>HRD</JobTitle>
+    <Golongan>HRD</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-05-28T00:00:00</HireDate>
+    <Phone>777777</Phone>
+    <Email>kemas@gmail.com</Email>
+    <BirthDate>2024-06-11T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>10000000</GajiPokok>
+    <TunjanganJabatan>15000000</TunjanganJabatan>
+    <TunjanganMakan>350000</TunjanganMakan>
+    <TunjanganTransportasi>500000</TunjanganTransportasi>
+    <GajiLembur>2000000</GajiLembur>
+    <PotonganAlpa>500000</PotonganAlpa>
+    <GajiBersih>27350000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>1FF</EmployeeId>
+    <Name>Adit</Name>
+    <JobTitle>HRD</JobTitle>
+    <Golongan>HRD</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-16T00:00:00</HireDate>
+    <Phone>0899897099</Phone>
+    <Email>adit@gmail.com</Email>
+    <BirthDate>2024-06-10T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>10000000</GajiPokok>
+    <TunjanganJabatan>15000000</TunjanganJabatan>
+    <TunjanganMakan>350000</TunjanganMakan>
+    <TunjanganTransportasi>500000</TunjanganTransportasi>
+    <GajiLembur>2000000</GajiLembur>
+    <PotonganAlpa>500000</PotonganAlpa>
+    <GajiBersih>27350000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>1F1</EmployeeId>
+    <Name>rifqi</Name>
+    <JobTitle>Staff</JobTitle>
+    <Golongan>Staff</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-16T00:00:00</HireDate>
+    <Phone>0807678923</Phone>
+    <Email>rifqi@gmail.com</Email>
+    <BirthDate>1997-07-15T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>5000000</GajiPokok>
+    <TunjanganJabatan>5000000</TunjanganJabatan>
+    <TunjanganMakan>150000</TunjanganMakan>
+    <TunjanganTransportasi>250000</TunjanganTransportasi>
+    <GajiLembur>1000000</GajiLembur>
+    <PotonganAlpa>250000</PotonganAlpa>
+    <GajiBersih>11150000</GajiBersih>
+  </Employee>
+  <Employee>
+    <EmployeeId>2FF</EmployeeId>
+    <Name>pol</Name>
+    <JobTitle>Staff</JobTitle>
+    <Golongan>Staff</Golongan>
+    <Gender>Male</Gender>
+    <HireDate>2024-06-16T00:00:00</HireDate>
+    <Phone>0890708099</Phone>
+    <Email>jul@gmail.com</Email>
+    <BirthDate>2000-07-09T00:00:00</BirthDate>
+    <PhotoPath />
+    <GajiPokok>5000000</GajiPokok>
+    <TunjanganJabatan>5000000</TunjanganJabatan>
+    <TunjanganMakan>150000</TunjanganMakan>
+    <TunjanganTransportasi>250000</TunjanganTransportasi>
+    <GajiLembur>1000000</GajiLembur>
+    <PotonganAlpa>250000</PotonganAlpa>
+    <GajiBersih>11150000</GajiBersih>
+  </Employee>
+</ArrayOfEmployee>

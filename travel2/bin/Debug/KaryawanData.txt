@@ -1,0 +1,174 @@
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+1,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+10,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+10,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+2,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+3,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+3,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+3,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+3,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+5,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+5,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+6,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+6,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+8,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+8,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+9,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+9,     ,     ,                                           ,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+11,     ,     ,                                           11FFF,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+11,     ,     ,                                           11FFF,    ,    ,    ,    ,    ,    ,    ,    ,    ,False,False,False
+12,     11FFF,    Golongan B,                                         2,    ,    ,    ,    ,    ,    ,    ,    ,    11FFF,False,False,False
+12,     11FFF,    Golongan B,                                         2,    ,    ,    ,    ,    ,    ,    ,    ,    11FFF,False,False,False
+13,   2,   1000000,                                         8000000,    ,    ,    ,    ,    ,    11FFF,   Zidan,   Golongan B,  2,False,False,False
+13,   2,   1000000,                                         8000000,    ,    ,    ,    ,    ,    11FFF,   Zidan,   Golongan B,  2,False,False,False
+14,   8000000,   300000,                                         300000,    ,    ,    11FFF,   Zidan,   Golongan B,  4,  3,  1000000,  8000000,False,False,False
+14,   8000000,   300000,                                         300000,    ,    ,    11FFF,   Zidan,   Golongan B,  4,  3,  1000000,  8000000,False,False,False
+15,   300000,   19300000,                                         11FFF,   Zidan,   Golongan B,  2,  4,  1000000,  8000000,  10000000,  300000,  300000,False,False,False
+15,   300000,   19300000,                                         11FFF,   Zidan,   Golongan B,  2,  4,  1000000,  8000000,  10000000,  300000,  300000,False,False,False
+,   0,   10FFF,                                        mandra,   Golongan C,  ,  ,  0,  0,  0,  0,  0,  0,False,False,False
+,   0,   10FFF,                                        mandra,   Golongan C,  ,  ,  0,  0,  0,  0,  0,  0,False,False,False
+,   ,  ,                                        ,  ,  ,  ,  ,  ,  ,  ,  ,  ,False,False,False
+,   ,  ,                                        ,  ,  ,  ,  ,  ,  ,  ,  ,  ,False,False,False
+,   9FFF,  Golongan B,                                       ,  ,  0,  0,  0,  0,  0,  0,  0,  9FFF,False,False,False
+, , 0,                                       0,  0,  0,  0,  0,  0,  9FFF, julio, Golongan B,,False,False,False
+, , 0,                                       0,  0,  0,  0,  0,  0,  9FFF, julio, Golongan B,,False,False,False
+, 0, 0,                                       0,  0,  0,  0,  10FFF, mandra, Golongan C,,,0,False,False,False
+, 0, 0,                                       0,  0,  0,  0,  10FFF, mandra, Golongan C,,,0,False,False,False
+, 10000000, 300000,                                       300000,  19300000,  11FFF, Zidan, Golongan B,,,1000000,8000000,10000000,False,False,False
+, 10000000, 300000,                                       300000,  19300000,  11FFF, Zidan, Golongan B,,,1000000,8000000,10000000,False,False,False
+20, 0, 0,                                       0,  10FFF, mandra, Golongan C,,,0,0,0,0,False,False,False
+20, 0, 0,                                       0,  10FFF, mandra, Golongan C,,,0,0,0,0,False,False,False
+21, , 11FFF,                                      , ,4,2,,,,,,,False,False,False
+21, 300000, 11FFF,                                      Zidan, Golongan B,4,2,1000000,8000000,10000000,300000,300000,300000,False,False,False
+21, 300000, 11FFF,                                      Zidan, Golongan B,4,2,1000000,8000000,10000000,300000,300000,300000,False,False,False
+, 19300000,Zidan,                                     Golongan B,2,8,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+, 19300000,Zidan,                                     Golongan B,2,8,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+23, 19300000,Zidan,                                     Golongan B,2,8,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+23, 19300000,Zidan,                                     Golongan B,2,8,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+, 0,mandra,                                   Golongan C,,,0,0,0,0,0,0,0,False,False,False
+, 0,mandra,                                   Golongan C,,,0,0,0,0,0,0,0,False,False,False
+, 0,mandra,                                 Golongan C,,,0,0,0,0,0,0,0,False,False,False
+, 0,mandra,                                 Golongan C,,,0,0,0,0,0,0,0,False,False,False
+, 19300000,Zidan,                                Golongan B,,,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+, 19300000,Zidan,                                Golongan B,,,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+23, ,,                              ,,,,,,,,,,False,False,False
+23, ,,                              ,,,,,,,,,,False,False,False
+23, 19300000,Zidan,                              Golongan B,,,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+23, 19300000,Zidan,                              Golongan B,,,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+, 19300000,Zidan,                            Golongan B,,,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+, 19300000,Zidan,                            Golongan B,,,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+, ,rizki,                           ,,,,,,,,,,False,False,False
+, ,rizki,                           ,,,,,,,,,,False,False,False
+25, 19300000,Zidan,                        Golongan B,2,5,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+23, 19300000,Zidan,                      Golongan B,3,3,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+15, 19300000,Zidan,                    Golongan B,14,4,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+24, 19300000,Zidan,                Golongan B,2,1,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+1, 19300000,Zidan,              Golongan B,30,6,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+1, 19300000,Yud,  Golongan B,30,8,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+1, 19300000,Yud,  Golongan B,30,8,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+1, 19300000,Yud,  Golongan B,30,8,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+1,11FFF,Zidan,Golongan B,12,5,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+3,11FFF,Zidan,Golongan B,12,6,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+1,90f,Yud,Golongan B,30,3,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+3,11FFF,Zidan,Golongan B,5,7,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+4,11FFF,Zidan,Golongan B,12,5,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+5,11FFF,Zidan,Golongan B,30,3,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+5,11FFF,Zidan,Golongan B,12,1,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+3,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+1,11FFF,Zidan,Golongan B,30,5,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+3,11FFF,Zidan,Golongan B,30,4,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+10,11FFF,Zidan,Golongan B,30,5,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+2,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+3,11FFF,Zidan,Golongan B,30,3,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+2,11FFF,Zidan,Golongan B,30,4,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+12,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+2,11FFF,Zidan,Golongan B,30,1,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+1,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+2,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+2,11FFF,Zidan,Golongan B,30,4,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+1,90f,Yud,Golongan B,30,8,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+1,90f,Yud,Golongan B,30,8,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+1,90f,Yud,Golongan B,30,8,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+2,90f,Yud,Golongan B,30,9,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+4,90f,Yud,Golongan B,30,10,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+4,90f,Yud,Golongan B,30,10,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+1,90f,Yud,Golongan B,30,30,1000000,8000000,10000000,300000,300000,Izin,19300000,False,False,False
+6,11FFF,Zidan,Golongan B,30,10,1000000,8000000,10000000,300000,300000,Izin,19300000,False,False,False
+7,90f,Yud,Golongan B,30,9,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+8,90fe,io,Golongan A,31,8,2000000,10000000,15000000,350000,500000,Hadir,27350000,False,False,False
+17,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,Alpa,18800000,False,False,False
+50,11FFF,Zidan,Golongan B,30,4,1000000,8000000,10000000,300000,300000,Alpa,18800000,False,False,False
+70,11FFF,Zidan,Golongan B,30,5,1000000,8000000,10000000,300000,300000,Alpa,18800000,False,False,False
+55,11FFF,Zidan,Golongan B,30,10,1000000,8000000,10000000,300000,300000,Alpa,18800000,False,False,False
+20,90fe,io,Golongan A,30,3,2000000,10000000,15000000,350000,500000,Alpa,26850000,False,False,False
+91,90f,Yud,Golongan B,30,8,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+81,90fe,io,Golongan A,31,2,2000000,10000000,15000000,350000,500000,Alpa,26850000,False,False,False
+71,iof,Yudha,Golongan A,31,3,2000000,10000000,15000000,350000,500000,Hadir,26850000,False,False,False
+100,90fe,io,Golongan A,30,3,2000000,10000000,15000000,350000,500000,Hadir,26850000,False,False,False
+120,90fe,io,Golongan A,30,3,2000000,10000000,15000000,350000,500000,Alpa,26850000,False,False,False
+130,90fe,io,Golongan A,30,4,2000000,10000000,15000000,350000,500000,Hadir,26850000,False,False,False
+150,90fe,io,Golongan A,30,7,2000000,10000000,15000000,350000,500000,Hadir,26850000,False,False,False
+200,90fe,io,Golongan A,30,5,2000000,10000000,15000000,350000,500000,Hadir,26850000,False,False,False
+250,90fe,io,Golongan A,30,7,2000000,10000000,15000000,350000,500000,Hadir,26850000,False,False,False
+250,90fe,io,Golongan A,30,7,2000000,10000000,15000000,350000,500000,Alpa,,False,False,False
+200,11FFF,Zidan,Golongan B,30,7,1000000,8000000,10000000,300000,300000,Izin,19300000,False,False,False
+280,11FFF,Zidan,Golongan B,30,8,1000000,8000000,10000000,300000,300000,Izin,18800000,False,False,False
+320,11FFF,Zidan,Golongan B,30,10,1000000,8000000,10000000,300000,300000,,18800000,False,False,False
+340,11FFF,Zidan,Golongan B,30,11,1000000,8000000,10000000,300000,300000,Alpa,-500000,False,False,False
+340,11FFF,Zidan,Golongan B,30,11,1000000,8000000,10000000,300000,300000,,-500000,False,False,False
+350,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,,18800000,False,False,False
+370,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,,18300000,False,False,False
+400,11FFF,Zidan,Golongan B,30,2,1000000,8000000,10000000,300000,300000,Alpa,-500000,False,False,False
+401,11FFF,Zidan,Golongan B,30,6,1000000,8000000,10000000,300000,300000,Alpa,-500000,False,False,False
+402,11FFF,Zidan,Golongan B,30,30,1000000,8000000,10000000,300000,300000,Alpa,-500000,False,False,False
+405,11FFF,Zidan,Golongan B,30,30,1000000,8000000,10000000,300000,300000,Hadir,26850000,False,False,False
+3,90fe,io,Golongan A,30,20,2000000,10000000,15000000,350000,500000,Alpa,-500000,False,False,False
+1,1RRR,Kemas,Manager,30,2,1000000,8000000,10000000,300000,300000,Alpa,,False,False,False
+5,1RRR,Kemas,Manager,30,10,1000000,8000000,10000000,300000,300000,Alpa,-500000,False,False,False
+11,1RRR,Kemas,Manager,,,,8000000,10000000,300000,300000,Alpa,8000000,False,False,False
+12,1RRR,Kemas,Manager,,,,8000000,10000000,300000,300000,Hadir,8000000,False,False,False
+14,1RRR,Kemas,Manager,,,,8000000,10000000,300000,300000,Alpa,8000000,False,False,False
+10,1RRR,Kemas,Manager,30,4,1000000,8000000,10000000,300000,300000,Hadir,,False,False,False
+11,1RRR,Kemas,Manager,30,3,1000000,8000000,10000000,300000,300000,Hadir,19300000,False,False,False
+12,1RRR,Kemas,Manager,30,4,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+13,1RRR,Kemas,Manager,30,3,1000000,8000000,10000000,300000,300000,Alpa,19300000,False,False,False
+15,1RRR,Kemas,Manager,30,2,1000000,8000000,10000000,300000,300000,Izin,19300000,False,False,False
+16,1RRR,Kemas,Manager,30,3,1000000,8000000,10000000,300000,300000,500000,19300000,False,False,False
+18,1RRR,Kemas,Manager,30,2,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+19,1RRR,Kemas,Manager,30,2,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+22,1RRR,Kemas,Manager,30,3,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+23,1RRR,Kemas,Manager,30,3,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,False
+24,1RRR,Kemas,Manager,30,3,1000000,8000000,10000000,300000,300000,300000,19300000,False,False,True
+25,1RRR,Kemas,Manager,30,4,1000000,8000000,10000000,300000,300000,300000,19300000,False,True,False
+26,1RRR,Kemas,Manager,30,4,1000000,8000000,10000000,300000,300000,300000,19300000,True,False,False
+27,1RRR,Kemas,Manager,30,2,1000000,8000000,10000000,300000,300000,300000,19000000,False,True,False
+28,1RRR,Kemas,Manager,30,3,1000000,8000000,10000000,300000,300000,300000,19000000,True,False,False
+34,90f,Yud,Golongan B,31,2,1000000,8000000,10000000,300000,300000,300000,19000000,False,True,False
+35,1f,Rak,HRD,30,2,2000000,10000000,15000000,350000,500000,500000,26850000,False,False,True
+48,iof,Yudha,Golongan A,30,,2000000,10000000,15000000,350000,500000,500000,26850000,True,False,False
+39,iof,Yudha,Golongan A,30,,2000000,10000000,15000000,350000,500000,500000,26850000,False,True,False
+40,iof,Yudha,Golongan A,30,2,2000000,10000000,15000000,350000,500000,500000,26850000,True,False,False
+41,iof,Yudha,Golongan A,30,2,2000000,10000000,15000000,350000,500000,500000,26350000,False,True,False
+29,iof,Yudha,Golongan A,30,2,2000000,10000000,15000000,350000,500000,500000,26850000,True,False,False
+42,iof,Yudha,Golongan A,30,2,2000000,10000000,15000000,350000,500000,500000,26350000,True,False,False
+90,2FF,liooo,Manager,30,3,1000000,8000000,10000000,300000,300000,300000,19000000,True,False,False
